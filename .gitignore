@@ -1,0 +1,17 @@
+/*.layout
+/*.depend
+
+/AllCbp.txt
+
+/xky/*.bat
+/xky/tools/
+
+/config/*.bin
+/executable/XKYAPP.bin
+/executable/XKYAPP_memories.ld
+/executable/XKYAPP_sections.ld
+/Makefile
+/.config
+
+/procedures/FQMC_SW_Build.diff
+/procedures/GenScadeSrc.diff
